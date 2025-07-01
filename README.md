@@ -1,3 +1,13 @@
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=de) | 
+[English](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=en) | 
+[Español](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=es) | 
+[français](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=fr) | 
+[日本語](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=ja) | 
+[한국어](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=ko) | 
+[Português](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=pt) | 
+[Русский](https://www.readme-i18n.com/cracker999999/SimplifiedChineseConverter?lang=ru)
+
 # 繁→简（Simplified Chinese Converter）
 
 一键将网页上的繁体字转换为简体字，基于 [https://api.zhconvert.org/convert](https://api.zhconvert.org/convert) 实现。
